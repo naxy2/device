@@ -53,5 +53,5 @@ loop = setInterval(()=>{
     }
     opzioni = generaOpzioni(post_data);
     invia(opzioni);
-}, 10000)
+}, 61000)
 
